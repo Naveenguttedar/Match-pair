@@ -11,7 +11,7 @@ export function App() {
     <>
       <div class="card">
         <Grid updateCount={updateCount} />
-        <button>count is {count}</button>
+        <button>Attempts :- {count}</button>
       </div>
     </>
   );

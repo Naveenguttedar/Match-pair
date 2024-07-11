@@ -28,4 +28,3 @@ function generateGrid() {
   return grid;
 }
 generateGrid();
-console.log(grid);
